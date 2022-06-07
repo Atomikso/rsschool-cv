@@ -1,1 +1,1 @@
-# rsschool-cv
+https://github.com/Atomikso/rsschool-cv
