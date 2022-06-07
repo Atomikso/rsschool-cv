@@ -1,5 +1,5 @@
 #Anton Skopichev
-![drive](img/drivers1.jpg)
+![drive](img/drivers1.png)
 ***
 ##Contact information:
 * __Phone__: +375292098923
